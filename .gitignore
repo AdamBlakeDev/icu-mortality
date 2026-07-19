@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+.vscode/
+submission/part1_model_development/models/*.joblib
+submission/part1_model_development/models/*.pkl
